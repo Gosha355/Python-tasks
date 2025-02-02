@@ -1,5 +1,5 @@
 # Python-tasks
-The tasks I have done
+Tasks that I completed while training to become a neural network developer
 1. Условия и циклы. Списки, словари, кортежи, множества: https://colab.research.google.com/drive/1DeETFoXFfocHBVktUVE7mXCLiRIf0Nk3
 2. Функции. Классы и объекты. Програмные модули: https://colab.research.google.com/drive/1ECzZ_h2D1eKabhTSFMWeWbwTpp-3W4gJ
 3. Нейронные сети. Математическая модель нейрона: https://colab.research.google.com/drive/1a15p3xF1glk2jNLLYHEQtgZtShXex8Ca
