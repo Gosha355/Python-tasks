@@ -13,14 +13,15 @@ Tasks that I completed while training to become a neural network developer
 11. Задачи машинного зрения на OpenCV: https://colab.research.google.com/drive/1QaO-siRw8XkBMCxjCKnTvXjaYwMCrBtZ
 12. Методы оптимизации и регуляризации НС: https://colab.research.google.com/drive/10c3Q6Z0vjO0Bh9Nr97J0SvDKWwkG3UmF
 13. Обучение сверточной нейронной сети на ограниченном наборе данных: https://colab.research.google.com/drive/11iqwB-ihJ_1cf6I8lARWdSsj0wkYCJ-F
-14. Знакомство с KerasCV: https://colab.research.google.com/drive/1wCjfZuG1XJ9jPf87asH-yqRLHu9Tanxu
+14. Работа с KerasCV: https://colab.research.google.com/drive/1wCjfZuG1XJ9jPf87asH-yqRLHu9Tanxu
 15. Предварительно обученные векторные представления: https://colab.research.google.com/drive/1rtfpAcl7ly5ZQ2XRsclv-xxukMkWIH3T
 16. Одномерные сверточные нейронные сети: https://colab.research.google.com/drive/16pW1F8SOA3M485t0dRea50qN2NxJ7owG
 17. Решение задач регрессии с помощью НС: https://colab.research.google.com/drive/1-5Ua6IAHELhts6uqtM876V1gDFWVrgDS
 18. Анализ временных рядов с помощью НС: https://colab.research.google.com/drive/198U5j3PwT_gn2eUgGMpcnOESvC4tvae7
 19. Генерация музыкальных произведений с помощью НС: https://colab.research.google.com/drive/1Sxa8JD_EtfDTCept-kcrTBY60OnYByPj
 20. AutoML в Keras: https://colab.research.google.com/drive/1WIZkUBe7qMCV6_cmV4YWwAfenLW_zfHi
-21. Введение в FastAPI: https://colab.research.google.com/drive/1yrWKDeqGEJJdnF-oQfPhw0enD9buZrVz
+21. Работа с FastAPI: https://colab.research.google.com/drive/1yrWKDeqGEJJdnF-oQfPhw0enD9buZrVz
 22. Создание чат-бота на Gradio: https://colab.research.google.com/drive/1MvjxdO_4cmPcZpwu1zZzXEyYB6bSW4VJ
 23. Практическая реализация нейро-сотрудника: https://colab.research.google.com/drive/1aAslR6fip_BLcNmm7vKfmzefbYYILPXo
 24. Пример обучения с LoRA: https://colab.research.google.com/drive/1N7ayQg5flOX-oc0p1i2OlvGe08P5Xwv6
+25. Knowledge Graph. Борьба с галлюцинациями: https://colab.research.google.com/drive/1al46O1mBAiLVvy916PbPtKa_QYdDvnLF#scrollTo=ewfZaMDONPqv
