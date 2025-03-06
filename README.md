@@ -26,4 +26,4 @@ Tasks that I completed while training to become a neural network developer
 24. Пример обучения с LoRA: https://colab.research.google.com/drive/1N7ayQg5flOX-oc0p1i2OlvGe08P5Xwv6
 25. Knowledge Graph. Борьба с галлюцинациями: https://colab.research.google.com/drive/1al46O1mBAiLVvy916PbPtKa_QYdDvnLF#scrollTo=ewfZaMDONPqv
 26. RAG системы: https://colab.research.google.com/drive/1TCcD5EYndqsuSebz0qStFD-YMjJEPB-C#scrollTo=WENbjDsInOFg
-27. ** Практика 2 **: https://colab.research.google.com/drive/1wC7WVzx332yPeeRYvbST4R4wlgiIPttR
+27. **Практика 2:** https://colab.research.google.com/drive/1wC7WVzx332yPeeRYvbST4R4wlgiIPttR
