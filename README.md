@@ -7,7 +7,7 @@ Tasks that I completed while training to become a neural network developer
 5. Работа с базами данных. Библиотеки Python для Data Science: https://colab.research.google.com/drive/1DipucMnWWKhmwY5JcJM5xisjAvIYHCH3
 6. Визуалицзация данных: https://colab.research.google.com/drive/1HEEhyePceGiLClsFLfG1B0rIj91uYjiC
 7. Обучение многослойного персептрона в TensorFlow: https://colab.research.google.com/drive/1uJlh73aJ0Jlgrhb1hWlnAq0-VtHho95j
-8. Практика 1: https://colab.research.google.com/drive/1FRyeqEsp6hR3qsJ9nY7IUrq_k2z0GwKz
+8. **Практика 1**: https://colab.research.google.com/drive/1FRyeqEsp6hR3qsJ9nY7IUrq_k2z0GwKz
 9. Telegram бот c ChatGPT: https://colab.research.google.com/drive/1AhTJrC9iXUyhu3yD4jb3LWK9pausgjnf
 10. Простые нейронные сети. Работа с библиотекой Keras: https://colab.research.google.com/drive/1-x8QjY4KOl62E5eKsVxYY9PlLRcRSO9u
 11. Задачи машинного зрения на OpenCV: https://colab.research.google.com/drive/1QaO-siRw8XkBMCxjCKnTvXjaYwMCrBtZ
@@ -26,3 +26,4 @@ Tasks that I completed while training to become a neural network developer
 24. Пример обучения с LoRA: https://colab.research.google.com/drive/1N7ayQg5flOX-oc0p1i2OlvGe08P5Xwv6
 25. Knowledge Graph. Борьба с галлюцинациями: https://colab.research.google.com/drive/1al46O1mBAiLVvy916PbPtKa_QYdDvnLF#scrollTo=ewfZaMDONPqv
 26. RAG системы: https://colab.research.google.com/drive/1TCcD5EYndqsuSebz0qStFD-YMjJEPB-C#scrollTo=WENbjDsInOFg
+27. ** Практика 2 **: https://colab.research.google.com/drive/1wC7WVzx332yPeeRYvbST4R4wlgiIPttR
