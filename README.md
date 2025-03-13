@@ -27,3 +27,4 @@ Tasks that I completed while training to become a neural network developer
 25. Knowledge Graph. Борьба с галлюцинациями: https://colab.research.google.com/drive/1al46O1mBAiLVvy916PbPtKa_QYdDvnLF#scrollTo=ewfZaMDONPqv
 26. RAG системы: https://colab.research.google.com/drive/1TCcD5EYndqsuSebz0qStFD-YMjJEPB-C#scrollTo=WENbjDsInOFg
 27. **Практика 2:** https://colab.research.google.com/drive/1wC7WVzx332yPeeRYvbST4R4wlgiIPttR
+28. Архитектура автокодировщиков: https://colab.research.google.com/drive/125W3QmnPc4QHN4-6VTdeTQAenF9BPcUV?usp=sharing
