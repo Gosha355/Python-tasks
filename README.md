@@ -31,4 +31,5 @@ Tasks that I completed while training to become a neural network developer
 29. Мультиклассовая сегментация: https://colab.research.google.com/drive/1HwVLXJ4lySNTzQzJZ1Mp3nnssOURdOW6?usp=sharing#scrollTo=dad8HtPKsUaq
 30. Автокодировщик GAN. Генеративно-состязательные сети: https://colab.research.google.com/drive/1aOSQuoip3kCQLCZzxCNYNeK-n7RjLzeU#scrollTo=QVM-3hyQlRtN
 31. Переводчик на рекурентных нейронных сетях: https://colab.research.google.com/drive/13GifqIJwqWJ8wPdLqx_10eze3YfFo7yK#scrollTo=0aZ9HfPJH44K
+32. Механизм внимания: https://colab.research.google.com/drive/1iF_4939rmmM1osP69tafuFJme8ywHkJo?usp=sharing#scrollTo=C8w8ZAgTkPjf
     
