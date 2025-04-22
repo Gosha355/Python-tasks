@@ -33,4 +33,5 @@ Tasks that I completed while training to become a neural network developer
 31. Переводчик на рекурентных нейронных сетях: https://colab.research.google.com/drive/13GifqIJwqWJ8wPdLqx_10eze3YfFo7yK#scrollTo=0aZ9HfPJH44K
 32. Механизм внимания: https://colab.research.google.com/drive/1iF_4939rmmM1osP69tafuFJme8ywHkJo?usp=sharing#scrollTo=C8w8ZAgTkPjf
 33. Русско-английский переводчик на трансформере: https://colab.research.google.com/drive/1WDuqsG596cOI1Ai5r8oH0F1vPGeFsxUK?usp=sharing#scrollTo=x-sUFQ3W2weh
+34. Обучение BERT-подобной модел: https://colab.research.google.com/drive/1TzrdoHy7879jHpwvr5tV0jwiDuwX-E_7?usp=sharing#scrollTo=0szccS6jxRNV
     
