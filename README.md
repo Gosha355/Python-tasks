@@ -36,4 +36,5 @@ Tasks that I completed while training to become a neural network developer
 34. Обучение BERT-подобной модел: https://colab.research.google.com/drive/1TzrdoHy7879jHpwvr5tV0jwiDuwX-E_7?usp=sharing#scrollTo=0szccS6jxRNV
 35. Механизмы внимания. Трансформер по принципу чат бота: https://colab.research.google.com/drive/1WDuqsG596cOI1Ai5r8oH0F1vPGeFsxUK#scrollTo=9PpeUIWrsUDv
 36. Обучение BERT-подобной модели: https://colab.research.google.com/drive/1TzrdoHy7879jHpwvr5tV0jwiDuwX-E_7
+37. OpenAI Transformer: Дообучение русскоязычной модели GPT для генерации фейковых новостей: https://colab.research.google.com/drive/1i6rUHNUilNpX8cAmidLT29n_-RKDY4Dj#scrollTo=BwigMFEopb3V
     
